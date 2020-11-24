@@ -53,11 +53,13 @@ body {
 .herocontainer {
   position: relative;
   max-width: 100%;
-  max-height: 61%;
+  max-height: 65%;
   overflow: hidden;
 }
 
 .heroimg {
+  position: relative;
+  margin-top: -12%;
   max-width: 100%;
 }
 
